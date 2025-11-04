@@ -362,5 +362,3 @@ public class ResumeIndexingService {
 - **Canadian PR holder** ready for immediate contribution to Toronto tech ecosystem
 
 ---
-
-*This resume represents a decade of hands-on backend engineering expertise with a focus on building scalable, reliable, and high-performance distributed systems that power critical business operations.*
